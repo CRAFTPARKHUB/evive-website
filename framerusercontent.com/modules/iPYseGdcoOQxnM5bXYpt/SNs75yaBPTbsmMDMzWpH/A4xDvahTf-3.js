@@ -1,0 +1,18 @@
+let e = [];
+export async function resolveRichTextCz(t) {
+    let i = e[t];
+    if (i) return await i();
+}
+export const __FramerMetadata__ = {
+    "exports": {
+        "resolveRichTextCz": {
+            "type": "function",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "__FramerMetadata__": {
+            "type": "variable"
+        }
+    }
+}

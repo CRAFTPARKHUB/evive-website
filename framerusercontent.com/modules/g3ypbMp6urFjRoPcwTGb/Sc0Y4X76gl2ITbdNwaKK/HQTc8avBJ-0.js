@@ -1,0 +1,21 @@
+export const v0 = "info@evive.com";
+export const v1 = "Odeslat";
+export const __FramerMetadata__ = {
+    "exports": {
+        "v1": {
+            "type": "variable",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "v0": {
+            "type": "variable",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "__FramerMetadata__": {
+            "type": "variable"
+        }
+    }
+}
